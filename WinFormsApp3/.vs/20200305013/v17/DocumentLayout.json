@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|C:\\Users\\admin\\Desktop\\WinFormsApp3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|c:\\users\\admin\\desktop\\winformsapp3\\winformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|solutionrelative:winformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|C:\\Users\\admin\\Desktop\\WinFormsApp3\\winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|solutionrelative:winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\20200305013.csproj|C:\\Users\\admin\\Desktop\\WinFormsApp3\\winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\20200305013.csproj|solutionrelative:winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|C:\\Users\\admin\\Desktop\\WinFormsApp3\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|C:\\Users\\admin\\Desktop\\WinFormsApp3\\winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|solutionrelative:winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|C:\\Users\\admin\\Desktop\\WinFormsApp3\\winformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3D7B90-139A-46FB-92A6-7D8B2484A6C7}|WinFormsApp3\\_20200305013.csproj|solutionrelative:winformsapp3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 468,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:52:53.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:00:05.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form2.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAwI0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:52:24.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form2.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAswJIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:52:32.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form2.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:59:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form3.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form3.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form3.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:05:53.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form3.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\WinFormsApp3\\WinFormsApp3\\Form3.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:59:26.887Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 86,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
